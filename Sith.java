@@ -1,5 +1,6 @@
 class Sith extends Personaje {
     private String poderOscuro;
+    private String nombree;
 
     public Sith(String nombre, String especie, String poderOscuro) {
         super(nombre, especie, "Sith");

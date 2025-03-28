@@ -2,6 +2,7 @@
 class Jedi extends Personaje {
     private String colorSable;
     private String altura;
+    private String peso;
 
     public Jedi(String nombre, String especie, String colorSable) {
         super(nombre, especie, "Jedi");
